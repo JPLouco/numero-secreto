@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "js-curso-2-aula_-",
+			"path": "../../js-curso-2-aula1/js-curso-2-aula_-"
+		},
+		{
+			"name": "Alura",
+			"path": "../../Alura"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Alura"
+	}
+}
